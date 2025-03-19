@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m8fSxhFIym6eiPwDwLGsArNCNZEtl86vuVqw/rWyif4=",
+  "Hash": "GnNN9qtXiRhHsEG8Y6FjZkzzJveITKvt/dfHgmbpn60=",
   "Source": "VentasApp",
   "BasePath": "_content/VentasApp",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/vicente/VentasSYS/VentasApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Identity": "/home/vicente/VentasSYS/VentasApp/obj/Debug/net9.0/compressed/1yl51spoqe-7rf6mxsmg4.gz",
+      "SourceId": "VentasApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/vicente/VentasSYS/VentasApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/VentasApp",
+      "RelativePath": "img/VAPP#[.{fingerprint=7rf6mxsmg4}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/vicente/VentasSYS/VentasApp/wwwroot/img/VAPP.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "sccwxiqtn6",
+      "Integrity": "jC+YVl3QjO8ADVO3hkecXqNXT4Wv+GCwSoqKsvtGeUg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/vicente/VentasSYS/VentasApp/wwwroot/img/VAPP.ico"
     },
     {
       "Identity": "/home/vicente/VentasSYS/VentasApp/obj/Debug/net9.0/compressed/27bctfy7vg-2z0ns9nrw6.gz",
@@ -1506,6 +1527,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/home/vicente/VentasSYS/VentasApp/wwwroot/img/VAPP.ico",
+      "SourceId": "VentasApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/vicente/VentasSYS/VentasApp/wwwroot/",
+      "BasePath": "_content/VentasApp",
+      "RelativePath": "img/VAPP#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7rf6mxsmg4",
+      "Integrity": "vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/VAPP.ico"
     },
     {
       "Identity": "/home/vicente/VentasSYS/VentasApp/wwwroot/js/productos.js",
@@ -3702,6 +3744,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-tOy5kS1PTkjkEg7bjV8bJa0VpoEZJUHnbqYmm1YyhMg="
+        }
+      ]
+    },
+    {
+      "Route": "img/VAPP.7rf6mxsmg4.ico",
+      "AssetFile": "/home/vicente/VentasSYS/VentasApp/obj/Debug/net9.0/compressed/1yl51spoqe-7rf6mxsmg4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000029224385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34217"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jC+YVl3QjO8ADVO3hkecXqNXT4Wv+GCwSoqKsvtGeUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 04:55:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7rf6mxsmg4"
+        },
+        {
+          "Name": "label",
+          "Value": "img/VAPP.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY="
+        }
+      ]
+    },
+    {
+      "Route": "img/VAPP.7rf6mxsmg4.ico",
+      "AssetFile": "/home/vicente/VentasSYS/VentasApp/wwwroot/img/VAPP.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 04:55:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7rf6mxsmg4"
+        },
+        {
+          "Name": "label",
+          "Value": "img/VAPP.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY="
+        }
+      ]
+    },
+    {
+      "Route": "img/VAPP.7rf6mxsmg4.ico.gz",
+      "AssetFile": "/home/vicente/VentasSYS/VentasApp/obj/Debug/net9.0/compressed/1yl51spoqe-7rf6mxsmg4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jC+YVl3QjO8ADVO3hkecXqNXT4Wv+GCwSoqKsvtGeUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 04:55:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7rf6mxsmg4"
+        },
+        {
+          "Name": "label",
+          "Value": "img/VAPP.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jC+YVl3QjO8ADVO3hkecXqNXT4Wv+GCwSoqKsvtGeUg="
+        }
+      ]
+    },
+    {
+      "Route": "img/VAPP.ico",
+      "AssetFile": "/home/vicente/VentasSYS/VentasApp/obj/Debug/net9.0/compressed/1yl51spoqe-7rf6mxsmg4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000029224385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34217"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jC+YVl3QjO8ADVO3hkecXqNXT4Wv+GCwSoqKsvtGeUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 04:55:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY="
+        }
+      ]
+    },
+    {
+      "Route": "img/VAPP.ico",
+      "AssetFile": "/home/vicente/VentasSYS/VentasApp/wwwroot/img/VAPP.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 04:55:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY="
+        }
+      ]
+    },
+    {
+      "Route": "img/VAPP.ico.gz",
+      "AssetFile": "/home/vicente/VentasSYS/VentasApp/obj/Debug/net9.0/compressed/1yl51spoqe-7rf6mxsmg4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jC+YVl3QjO8ADVO3hkecXqNXT4Wv+GCwSoqKsvtGeUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 04:55:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jC+YVl3QjO8ADVO3hkecXqNXT4Wv+GCwSoqKsvtGeUg="
         }
       ]
     },

@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/home/vicente/VentasSYS/VentasApp/wwwroot/img/VAPP.ico",
+      "PackagePath": "staticwebassets/img/VAPP.ico"
+    },
+    {
       "Id": "/home/vicente/VentasSYS/VentasApp/wwwroot/js/productos.js",
       "PackagePath": "staticwebassets/js/productos.js"
     },

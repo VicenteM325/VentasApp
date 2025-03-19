@@ -1195,6 +1195,304 @@
       ]
     },
     {
+      "Route": "img/VAPP.7rf6mxsmg4.ico",
+      "AssetFile": "img/VAPP.ico.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000029224385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jC+YVl3QjO8ADVO3hkecXqNXT4Wv+GCwSoqKsvtGeUg=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 04:55:25 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7rf6mxsmg4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY="
+        },
+        {
+          "Name": "label",
+          "Value": "img/VAPP.ico"
+        }
+      ]
+    },
+    {
+      "Route": "img/VAPP.7rf6mxsmg4.ico",
+      "AssetFile": "img/VAPP.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 04:55:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7rf6mxsmg4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY="
+        },
+        {
+          "Name": "label",
+          "Value": "img/VAPP.ico"
+        }
+      ]
+    },
+    {
+      "Route": "img/VAPP.7rf6mxsmg4.ico.gz",
+      "AssetFile": "img/VAPP.ico.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jC+YVl3QjO8ADVO3hkecXqNXT4Wv+GCwSoqKsvtGeUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 04:55:25 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7rf6mxsmg4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jC+YVl3QjO8ADVO3hkecXqNXT4Wv+GCwSoqKsvtGeUg="
+        },
+        {
+          "Name": "label",
+          "Value": "img/VAPP.ico.gz"
+        }
+      ]
+    },
+    {
+      "Route": "img/VAPP.ico",
+      "AssetFile": "img/VAPP.ico.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000029224385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jC+YVl3QjO8ADVO3hkecXqNXT4Wv+GCwSoqKsvtGeUg=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 04:55:25 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY="
+        }
+      ]
+    },
+    {
+      "Route": "img/VAPP.ico",
+      "AssetFile": "img/VAPP.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 04:55:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTBpnp1S9LDdpsoKF6ren+wqBlJZssuwAqUVrAW4gmY="
+        }
+      ]
+    },
+    {
+      "Route": "img/VAPP.ico.gz",
+      "AssetFile": "img/VAPP.ico.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jC+YVl3QjO8ADVO3hkecXqNXT4Wv+GCwSoqKsvtGeUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 04:55:25 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jC+YVl3QjO8ADVO3hkecXqNXT4Wv+GCwSoqKsvtGeUg="
+        }
+      ]
+    },
+    {
       "Route": "js/productos.9drar30r1b.js",
       "AssetFile": "js/productos.js.gz",
       "Selectors": [

@@ -172,3 +172,4 @@
 /home/vicente/VentasSYS/VentasApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /home/vicente/VentasSYS/VentasApp/obj/Debug/net9.0/compressed/s4ailihphj-k4v0vrdl6p.gz
 /home/vicente/VentasSYS/VentasApp/obj/Debug/net9.0/compressed/pg2fkjt7bk-9drar30r1b.gz
+/home/vicente/VentasSYS/VentasApp/obj/Debug/net9.0/compressed/1yl51spoqe-7rf6mxsmg4.gz

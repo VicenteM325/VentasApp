@@ -36,6 +36,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Mar 2025 01:21:17 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/VentasApp/img/VAPP.7rf6mxsmg4.ico">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\VAPP.ico'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7rf6mxsmg4"},{"Name":"integrity","Value":"sha256-vTBpnp1S9LDdpsoKF6ren\u002BwqBlJZssuwAqUVrAW4gmY="},{"Name":"label","Value":"_content/VentasApp/img/VAPP.ico"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"34310"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022vTBpnp1S9LDdpsoKF6ren\u002BwqBlJZssuwAqUVrAW4gmY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Mar 2025 04:55:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/VentasApp/img/VAPP.ico">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\VAPP.ico'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vTBpnp1S9LDdpsoKF6ren\u002BwqBlJZssuwAqUVrAW4gmY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"34310"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022vTBpnp1S9LDdpsoKF6ren\u002BwqBlJZssuwAqUVrAW4gmY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Mar 2025 04:55:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/VentasApp/js/productos.9drar30r1b.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\productos.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
