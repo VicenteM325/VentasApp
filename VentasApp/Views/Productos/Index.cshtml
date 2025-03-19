@@ -1,0 +1,42 @@
+@model List<Producto>
+
+@{
+    ViewData["Title"] = "Productos Vendidos en 2019";
+}
+
+<!-- Importar estilos -->
+<link rel="stylesheet" href="~/css/productos.css" asp-append-version="true" />
+
+<div class="container-fluid mt-5">
+    <!-- Filtro de Categoría -->
+    <div class="row mb-4">
+        <div class="col-md-6 mx-auto">
+            <div class="input-group">
+                <label for="categoria" class="form-label me-2">Filtrar por Categoría:</label>
+                <select id="categoria" class="form-control">
+                    <option value="">-- Seleccionar --</option>
+                    @foreach (var categoria in ViewBag.Categorias)
+                    {
+                        <option value="@categoria.CodigoCategoria">@categoria.Nombre</option>
+                    }
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tabla de Productos -->
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card shadow-lg border-primary">
+                <div class="card-body">
+                    <h4 class="mb-4 text-center text-primary">Productos Vendidos en 2019</h4>
+                    @await Html.PartialAsync("_TablaProductos", Model)
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Importar scripts -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/productos.js"></script>

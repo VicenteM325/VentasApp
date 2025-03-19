@@ -1,0 +1,62 @@
+/* Fondo y fuente */
+body {
+    background-color: #f7f9fc;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Tarjetas de contenido */
+.card {
+    border-radius: 12px;
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    padding: 30px;
+}
+
+/* Estilos de la tabla */
+.table thead {
+    background-color: #d1e3f7;
+    color: white;
+    font-weight: bold;
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #e9ecef;
+    cursor: pointer;
+}
+
+.table th, .table td {
+    padding: 15px;
+    text-align: left;
+}
+
+/* Estilos del selector de categoría */
+.input-group {
+    width: 100%;
+}
+
+select.form-control {
+    font-size: 16px;
+    padding: 12px;
+    border-radius: 8px;
+    border: 2px solid #828282;
+}
+
+/* Títulos */
+h4 {
+    font-size: 24px;
+}
+
+/* Efecto al pasar el mouse */
+tbody tr:hover {
+    background-color: #f0f8ff;
+}

@@ -1,0 +1,19 @@
+@model List<Producto>
+
+<div class="table-responsive">
+    <table class="table table-hover table-bordered">
+        <thead>
+            <tr>
+                <th>Nombre del Producto</th>
+            </tr>
+        </thead>
+        <tbody id="productos-table">
+            @foreach (var producto in Model)
+            {
+                <tr>
+                    <td class="text-left">@producto.Nombre</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
